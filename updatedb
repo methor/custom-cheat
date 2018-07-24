@@ -1,0 +1,2 @@
+# updatedb on mac
+sudo /usr/libexec/locate.updatedb

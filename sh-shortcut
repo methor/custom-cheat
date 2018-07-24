@@ -1,0 +1,24 @@
+#Begining of line
+ctrl + A
+#end of line
+ctrl + E
+#One word forward
+alt + F
+#One word backward
+alt + B
+
+#Clear characters before current pos
+ctrl + U (clear line in Zsh)
+#Clear characters after current pos
+ctrl + K
+#Delete word in front of cursor
+ctrl + W
+#Delete word after cursor
+alt + D
+
+#Uppercase word
+alt + U
+#Lowercase word
+alt + L
+#Capitalize word
+alt + C

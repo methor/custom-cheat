@@ -1,0 +1,10 @@
+#Change language mode
+ctrl + K + M
+#Go to symbol
+cmd + T
+#Format file
+shift + option + F
+#Format selected snippet
+cmd + k + cmd + f
+#Indent lines
+cmd + ]

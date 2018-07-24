@@ -1,0 +1,2 @@
+#Login into legion server
+kinit ... && ssh tiger@10.3.47.229
