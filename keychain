@@ -2,3 +2,4 @@
 security add-generic-password -a "bob" -l "MY.REAL.COM (bob)" -s "MY.REALM.COM" -w "mypasswd" -c "aapl" -T "/usr/bin/kinit"
 
 
+
