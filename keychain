@@ -1,5 +1,3 @@
 # add an item for kinit (many -T is allowed)
 security add-generic-password -a "bob" -l "MY.REAL.COM (bob)" -s "MY.REALM.COM" -w "mypasswd" -c "aapl" -T "/usr/bin/kinit"
 
-
-
