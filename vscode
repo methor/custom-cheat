@@ -1,10 +1,14 @@
-#Change language mode
+# change language mode
 ctrl + K + M
-#Go to symbol
+# go to symbol
 cmd + T
-#Format file
+# format file
 shift + option + F
-#Format selected snippet
+# format selected snippet
 cmd + k + cmd + f
-#Indent lines
+# indent lines
 cmd + ]
+# select word repetively
+cmd + D
+# change all watch words
+cmd + F2
