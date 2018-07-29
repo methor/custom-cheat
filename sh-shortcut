@@ -3,9 +3,9 @@ ctrl + A
 #end of line
 ctrl + E
 #One word forward
-alt + F
+alt + F, or ctrl + B (iterm2 keyboard rule)
 #One word backward
-alt + B
+alt + B, or ctrl + B (iter2 keyboard rule)
 
 #Clear characters before current pos
 ctrl + U (clear line in Zsh)
